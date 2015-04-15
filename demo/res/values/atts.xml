@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="topbar">
+        <sttr name="title" format="sting"/>
+        <sttr name="titleTextSize" format="dimension"/>
+        <sttr name="titleTextColor" format="color"/>
+        <sttr name="leftTextColor" format="color"/>
+        <sttr name="leftBackground" format="reference color"/>
+        <sttr name="leftText" format="string"/>
+        <sttr name="rightTextColor" format="color"/>
+        <sttr name="rightBackground" format="reference color"/>
+        <sttr name="rightText" format="string"/>
+       
+    </declare-styleable>
+    
+</resources>
